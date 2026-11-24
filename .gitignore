@@ -1,0 +1,30 @@
+
+
+# Build output
+**/bin/
+**/obj/
+
+# Local editor and IDE files
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Sensitive local files
+.env
+.env.*
+**/secrets.json
+body.json
+
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+.env
+.env.*
+**/secrets.json
+body.json
